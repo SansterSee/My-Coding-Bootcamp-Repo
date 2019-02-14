@@ -1,0 +1,30 @@
+/* Activity 7 CSS */
+
+
+.p1 {
+
+    font-family: 'Taprom', cursive;
+    font-size: 16px;
+    line-height: 40px;
+    color: brown;
+    
+
+
+}
+
+.p2 {
+    font-family: 'Monoton', cursive;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 60px;
+    color: fuchsia;
+}
+
+.p3 {
+
+    font-family: 'Libre Barcode 39 Text', cursive;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: lawngreen;
+}
